@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+}
+body {
+background: #E5E5E5;
+margin-left: 450px;
+}
+.frame1 {
+width: 1440px;
+height: 1440px;
+background: #F4F4F4;
+margin-left: 180px;
+padding-top: 180px;
+margin-left: 180px;
+}
+.rectangle1 {
+width: 500px;
+height: 838px;
+background: #FFFFFF;
+border: 1px solid #E7E6EB;
+padding-top: 30px;
+margin-left: 440px;
+}
+
+h3 {
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+color: #333333;
+margin-left: 50px;
+}
+.paragraf {
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #333333;
+margin-left: 50px;
+margin-top: -15px;
+}
+.texti {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #333333;
+margin-left:50px;
+margin-top: -20px;
+padding-right: 5%;
+}
+.satauri {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #666666;
+margin-left: 50px;
+margin-top: 50px;
+}
+.Ellipse {   
+margin-left: 50px;
+}
+
+.box-yellow {
+width: 402px;
+height: 55px;
+background: #FBBF23;
+border-radius: 8px;
+margin-left: 50px;
+padding-top: 15px;
+}
+.card {
+    font-weight: 400;
+font-size: 24px;
+
+line-height: 28px;
+margin-left: 150px;
+margin-top: 20px;
+}
+.box-white {
+    width: 402px;
+height: 55px;
+border: 1px solid #61A5FA;
+border-radius: 8px;
+margin-top: 20px;
+margin-left: 50px;
+}
+
+    
+
+.text-blue {
+font-weight: 400;
+font-size: 24px;
+color: #333333;
+margin-top:15px;
+margin-left: 150px;
+}
+.mini-box {
+    color: #61A5FA;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
